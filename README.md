@@ -334,6 +334,7 @@
 
 ### Chemical Reaction Networks & Systems Biology
 - [Catalyst.jl](https://github.com/SciML/Catalyst.jl) - Chemical reaction network and systems biology interface for scientific machine learning (SciML), enabling high-performance, GPU-parallelized simulation and analysis of complex biochemical systems with O(1) solvers (SciML, 518+ stars, Julia)
+- - [CARE](https://github.com/LopezGroup-ICIQ/care) - Automated creation of chemical reaction networks in heterogeneous catalysis, powered by state-of-the-art ML evaluators and microkinetic modelling solvers
 
 ### Physics-Informed Neural Networks
 - [DeepXDE](https://github.com/lululxvi/deepxde) - Deep learning library for solving PDEs
